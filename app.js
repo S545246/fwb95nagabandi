@@ -8,7 +8,7 @@ var indexRouter = require('./routes/index');
 var usersRouter = require('./routes/users');
 var icecreamRouter = require('./routes/icecream');
 var addmodsRouter = require('./routes/addmods');
-var selectorRouter = require('./routes/selector')
+var selectorRouter = require('./routes/selector');
 
 var app = express();
 
